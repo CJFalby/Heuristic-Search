@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sh5c+Iem9Vvm1z/YUefi/Ekg0K9uwdwAk0WH4g3EX+ZUh9ESS4gVJPl39DxpTVmcbY98OxCFKEjPbg6DYm9Z9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\OneDrive\\Desktop\\Term 1\\Algorithms and Data Structures\\Coursework\\Project 6\\Heuristic Search\\Heuristic Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
